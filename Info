@@ -13,3 +13,6 @@ git add filename
 git add . (Сразу фсе файлы)
 6. История комитов
 git log
+7.Переключение на ветку
+git checkout branch_name
+git checkout -b branch_name (создать ветку если ее нету)
